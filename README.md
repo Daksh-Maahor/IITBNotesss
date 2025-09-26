@@ -56,10 +56,17 @@ If a document uses fonts or packages from optional collections, install the corr
 - Prefer vector images (PDF/SVG -> converted to PDF for inclusion) under a course-specific images folder if needed.
 
 ### Contributing
-These are my personal notes. Suggestions and corrections are welcome via issues or small pull requests.
+Suggestions and corrections are welcome via issues or small pull requests.
 
 ### License
-Copyright (c) 2025 Daksh Maahor. All rights reserved.
-If you need a different license, open an issue to discuss.
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+- You are free to share and adapt the material for any purpose, even commercially.
+- You must provide appropriate credit and indicate if changes were made.
+
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
 
 
