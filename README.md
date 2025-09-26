@@ -3,10 +3,6 @@
 ### Overview
 Public repository for my college lecture notes written in LaTeX. Each course lives in its own directory, with subfolders for chapters, tutorials, or compiled artifacts.
 
-### Editor Setup (Optional)
-- VS Code: Install “LaTeX Workshop” extension for build-on-save, PDF preview, and linting.
-- Any editor is fine; ensure your PATH includes the LaTeX binaries (e.g., `pdflatex`, `latexmk`).
-
 ### Conventions
 - Course directories named by course code (e.g., `CS-105`, `MA-105`).
 - Keep one primary `*.tex` per compiled document.
